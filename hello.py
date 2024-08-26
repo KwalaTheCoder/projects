@@ -6,3 +6,5 @@ def multi(x,y):
     return x*y
 def divide(x,y):
     return x/y
+def percent(x,y):
+    return x%y
