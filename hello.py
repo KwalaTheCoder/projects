@@ -8,3 +8,5 @@ def divide(x,y):
     return x/y
 def percent(x,y):
     return x%y
+def power(x,y):
+    return x**y
